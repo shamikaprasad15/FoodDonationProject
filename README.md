@@ -1,1 +1,1 @@
-# FoodDonationProject
+The Food Donation App is a smartphone app that connects food donors with organisations and people in need. This software attempts to prevent food waste by allowing the donation of excess food to those in need.
